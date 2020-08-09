@@ -10,7 +10,7 @@ El proceso se divide en 3 etapas.
 - 3° etapa: eliminacion de archivos JSON intermedios y/o vacios debido a errores de parametros ingresados por el usuario
 
 ## ¿Como ejecutarlo?:
-Descomprimir el .rar en el directorio deseado de su computadora, y ejecutar el job "main.kjb"
+Descomprimir el .rar en el directorio deseado de su computadora, y ejecutar el job "main.kjb". Las instrucciones para el ingreso de los parametros se encuentran en las notas del job.
 
 ## Consideraciones:
 - La estructura del JSON final generado se puede validar en sitios web como, por ejemplo, https://jsonformatter.curiousconcept.com/#
